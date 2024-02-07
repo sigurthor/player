@@ -14,6 +14,7 @@ export const AUDIO_TYPES = new Set<string>([
   'audio/mp4',
   'audio/webm',
   'audio/flac',
+  'audio/wave',
 ]);
 
 // https://github.com/cookpete/react-player/blob/master/src/patterns.js#L16
